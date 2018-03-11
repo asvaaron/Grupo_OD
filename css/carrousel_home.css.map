@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;EAEE;AACF,SAAU;EACR,UAAU,EAAC,OAAO;;AAGpB;;EAEE;AACF,yBAA0B;EACxB,KAAK,EAAC,IAAI;;AAGZ;;EAEE;AACF,gBAAiB;EACf,OAAO,EAAE,KAAK;EACd,KAAK,EAAC,IAAI",
+"sources": ["../scss/carrousel_home.scss"],
+"names": [],
+"file": "carrousel_home.css"
+}
