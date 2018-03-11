@@ -1,3 +1,6 @@
 
 # Ignore IDEA
 .idea/*
+
+# Ignore css.map files
+*.css.map
