@@ -6,6 +6,9 @@ html {
 .od-nav-bar {
   font-size: 1em; }
 
+.top-space {
+  margin-top: 5%; }
+
 /*
 Removes white gap between slides - chagnge to base color of slide images
 */
