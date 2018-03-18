@@ -1,0 +1,55 @@
+/*Social media icons scss*/
+
+.social-media-icon {
+  font-size: 30px;
+
+  width: 1.5em;
+  height: 1.1em;
+  text-align: center;
+  text-decoration: none;
+  /* Facebook */
+
+
+}
+
+/* Add a hover effect if you want */
+.social-media-icon:hover {
+  opacity: 0.7;
+}
+
+
+/* Facebook*/
+.facebook-icon {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.twitter-icon {
+  background: #55ACEE;
+  color:white;
+}
+
+/*Google+ */
+
+.google-plus-icon {
+  background: #dd4b39;
+  color: white;
+}
+
+
+
+/*Likedin*/
+.likedin-icon{
+  background: #007bb5;
+  color: white;
+}
+
+/*RSS*/
+.rss-icon {
+  background: #ff6600;
+  color: white;
+}
+
+/* Set a specific color for each brand */
+
