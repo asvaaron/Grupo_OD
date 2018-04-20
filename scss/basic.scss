@@ -1,5 +1,10 @@
 /* Basic CSS file */
 
+// Define colors
+
+$buttons-color: #007F8B;
+
+
 html{
   font-size: 1.2em;
 }
@@ -10,6 +15,11 @@ html{
 
   font-size: 1em;
 
+}
+
+button{
+  background-color: $buttons-color;
+  color: white;
 }
 
 

@@ -6,6 +6,10 @@ html {
 .od-nav-bar {
   font-size: 1em; }
 
+button {
+  background-color: #007F8B;
+  color: white; }
+
 .top-space {
   margin-top: 5%; }
 
