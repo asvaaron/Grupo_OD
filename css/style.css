@@ -34,7 +34,7 @@ anchors are inline so you need ot make them block to go full width
 
 /*Social media icons scss*/
 .social-media-icon {
-  font-size: 30px;
+  font-size: 1.5em;
   width: 1.5em;
   height: 1.1em;
   text-align: center;
