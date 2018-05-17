@@ -13,6 +13,10 @@ button {
 .top-space {
   margin-top: 5%; }
 
+.central-content-brands img {
+  width: 30em;
+  height: 15em; }
+
 /*
 Removes white gap between slides - chagnge to base color of slide images
 */
